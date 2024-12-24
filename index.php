@@ -10,5 +10,11 @@
         hello world!
     </h1>
 
+    <h3>
+        <?php
+            $name = "John";
+            echo "Hello $name!";
+        ?>
+    </h3>
 </body>
 </html>
