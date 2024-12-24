@@ -16,12 +16,5 @@
             echo "Hello World!";
         ?>
     </h2>
-
-    <h3>
-        <?php
-            $name = "John";
-            echo "Hello $name!";
-        ?>
-    </h3>
 </body>
 </html>
