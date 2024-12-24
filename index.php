@@ -9,5 +9,19 @@
     <h1>
         hello world!
     </h1>
+
+
+    <h2>
+        <?php
+            echo "Hello World!";
+        ?>
+    </h2>
+
+    <h3>
+        <?php
+            $name = "John";
+            echo "Hello $name!";
+        ?>
+    </h3>
 </body>
 </html>
